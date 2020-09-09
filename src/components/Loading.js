@@ -1,38 +1,39 @@
-import React,{useEffect} from "react";
-import mojs from "@mojs/core";
+import React from "react";
 
 export default function Loading() {
-  document.body.style.backgroundColor = "#353353";
+  return(
+    <div id="preloader">
+  	 <div class="outer">
 
-  useEffect(() => {
-    const animation = new mojs.Shape({
-      parent:           '#spinner',
-      shape:            'circle',
-      stroke:           '#FC46AD',
-      strokeDasharray:  '125, 125',
-      strokeDashoffset: {'0': '-125'},
-      strokeWidth:      4,
-      fill:             'none',
-      left:             '50%',
-      top:              '50%',
-      angle:            {'-90': '270'},
-      radius:           20,
-      isShowStart:      true,
-      duration:         1000,
-      easing:           'back.in',
-    })
-    .then({
-      angle:            {'-90': '270'},
-      strokeDashoffset: {'-125': '-250'},
-      duration:         2000,
-      easing:           'cubic.out',
-      onComplete () {
-        this.replay(0);
-      }
-    });
+  		<div class="infinityChrome">
+  			<div></div>
+  			<div></div>
+  			<div></div>
+  		</div>
 
-    animation.play();
-  }, []);
 
-  return <div id="spinner"> </div>;
+  		<div class="infinity">
+  			<div>
+  				<span></span>
+  			</div>
+  			<div>
+  				<span></span>
+  			</div>
+  			<div>
+  				<span></span>
+  			</div>
+  		</div>
+
+  		<svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="goo-outer">
+  			<defs>
+  				<filter id="goo">
+  					<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
+  					<feColorMatrix in="blur" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo" />
+  					<feBlend in="SourceGraphic" in2="goo" />
+  				</filter>
+  			</defs>
+  		</svg>
+  	</div>
+  </div>
+  )
 }

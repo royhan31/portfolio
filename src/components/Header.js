@@ -1,7 +1,10 @@
 import React from 'react';
+import Loading from './Loading'
 
 export default function Haeder(){
   return(
+    <>
+    <Loading />
     <header className="desktop-header-3 fixed-top">
        <div className="container">
          <nav className="navbar navbar-expand-lg navbar-dark">
@@ -17,5 +20,6 @@ export default function Haeder(){
          </nav>
        </div>
    </header>
+   </>
   )
 }
