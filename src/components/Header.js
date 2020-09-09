@@ -5,7 +5,7 @@ export default function Haeder(){
     <header className="desktop-header-3 fixed-top">
        <div className="container">
          <nav className="navbar navbar-expand-lg navbar-dark">
-             <a className="navbar-brand" href="index-3-dark.html"><img src="portfolio/images/logo.svg" alt="Royhan" /></a>
+             <a className="navbar-brand" href="/"><img src={require("../images/IR.png")} alt="Royhan" /></a>
              <button aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" className="navbar-toggler" data-target="#navbarNavDropdown" data-toggle="collapse" type="button"><span className="navbar-toggler-icon"></span></button>
              <div className="collapse navbar-collapse" id="navbarNavDropdown">
                  <ul className="navbar-nav ml-auto scrollspy">

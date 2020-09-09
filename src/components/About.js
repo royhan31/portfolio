@@ -22,7 +22,9 @@ export default function About(){
 					<div className="rounded bg-dark shadow-dark padding-30">
 						<div className="row">
 							<div className="col-md-6">
-								<p>Saya Izzatur Royhan</p>
+								<p className="text-justify">Saya Izzatur Royhan, seorang fresh graduate dan seorang backend developer yang berfokus pada
+                Laravel, React js dan Express js.
+                </p>
 								<div className="mt-3">
 									<a href="/" className="btn btn-default">Download CV</a>
 								</div>
@@ -69,35 +71,30 @@ export default function About(){
 			</div>
 
 			<div className="spacer" data-height="75"></div>
-      <div class="row">
-				<div class="col-md-2 col-sm-2 col-4 mb-4 text-center">
-					<div class="fact-item">
-					     <i class="fab fa-js-square fa-3x"></i>
+      <div className="row">
+				<div className="col-md-2 col-sm-2 col-4 mb-4 text-center">
+					<div className="fact-item">
+					     <i className="fab fa-js-square fa-3x"></i>
 					</div>
 				</div>
-				<div class="col-md-2 col-sm-2 col-4 mb-4 text-center">
-					<div class="fact-item">
-					     <i class="fab fa-php fa-3x"></i>
+				<div className="col-md-2 col-sm-2 col-4 mb-4 text-center">
+					<div className="fact-item">
+					     <i className="fab fa-php fa-3x"></i>
 					</div>
 				</div>
-				<div class="col-md-2 col-sm-2 col-4 mb-4 text-center">
-					<div class="fact-item">
-					     <i class="fab fa-react fa-3x"></i>
+				<div className="col-md-2 col-sm-2 col-4 mb-4 text-center">
+					<div className="fact-item">
+					     <i className="fab fa-react fa-3x"></i>
 					</div>
 				</div>
-				<div class="col-md-2 col-sm-2 col-4 text-center">
-					<div class="fact-item">
-					     <i class="fab fa-laravel fa-3x"></i>
+				<div className="col-md-2 col-sm-2 col-4 text-center">
+					<div className="fact-item">
+					     <i className="fab fa-laravel fa-3x"></i>
 					</div>
 				</div>
-				<div class="col-md-2 col-sm-2 col-4 text-center">
-					<div class="fact-item">
-					    <i class="fab fa-css3-alt fa-3x"></i>
-					</div>
-				</div>
-        <div class="col-md-2 col-sm-2 col-4 text-center">
-					<div class="fact-item">
-					    <i class="fas fa-database fa-3x"></i>
+        <div className="col-md-2 col-sm-2 col-4 text-center">
+					<div className="fact-item">
+					    <i className="fas fa-database fa-3x"></i>
 					</div>
 				</div>
 
