@@ -11,6 +11,7 @@ export default function Haeder(){
                  <ul className="navbar-nav ml-auto scrollspy">
                      <li className="nav-item"><a className="nav-link" href="#home">Home</a></li>
                      <li className="nav-item"><a href="#about" className="nav-link">About</a></li>
+                     <li className="nav-item"><a href="#experience" className="nav-link">Experience</a></li>
                  </ul>
              </div>
          </nav>

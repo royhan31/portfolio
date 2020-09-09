@@ -68,7 +68,40 @@ export default function About(){
 				</div>
 			</div>
 
-			<div className="spacer" data-height="90"></div>
+			<div className="spacer" data-height="75"></div>
+      <div class="row">
+				<div class="col-md-2 col-sm-2 col-4 mb-4 text-center">
+					<div class="fact-item">
+					     <i class="fab fa-js-square fa-3x"></i>
+					</div>
+				</div>
+				<div class="col-md-2 col-sm-2 col-4 mb-4 text-center">
+					<div class="fact-item">
+					     <i class="fab fa-php fa-3x"></i>
+					</div>
+				</div>
+				<div class="col-md-2 col-sm-2 col-4 mb-4 text-center">
+					<div class="fact-item">
+					     <i class="fab fa-react fa-3x"></i>
+					</div>
+				</div>
+				<div class="col-md-2 col-sm-2 col-4 text-center">
+					<div class="fact-item">
+					     <i class="fab fa-laravel fa-3x"></i>
+					</div>
+				</div>
+				<div class="col-md-2 col-sm-2 col-4 text-center">
+					<div class="fact-item">
+					    <i class="fab fa-css3-alt fa-3x"></i>
+					</div>
+				</div>
+        <div class="col-md-2 col-sm-2 col-4 text-center">
+					<div class="fact-item">
+					    <i class="fas fa-database fa-3x"></i>
+					</div>
+				</div>
+
+			</div>
 
 		</div>
 

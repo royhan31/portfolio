@@ -18,14 +18,18 @@ export default function Experience(){
 							<div className="content">
 								<span className="time">2020</span>
 								<h3 className="title">Politeknik Harapan Bersama Tegal</h3>
-								<p>Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.</p>
+								<p>DIV Teknik Informatika</p>
 							</div>
 						</div>
-
+						<div className="timeline-container wow fadeInUp" data-wow-delay="0.2s">
+							<div className="content">
+								<span className="time">2015</span>
+								<h3 className="title">SMK N 01 Brebes</h3>
+								<p>Teknik Komputer dan Jaringan</p>
+							</div>
+						</div>
 						<span className="line"></span>
-
 					</div>
-
 				</div>
 
 				<div className="col-md-6">
