@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.f95f5d0b.chunk.js",
-    "main.js.map": "/static/js/main.f95f5d0b.chunk.js.map",
+    "main.js": "/static/js/main.0d56c032.chunk.js",
+    "main.js.map": "/static/js/main.0d56c032.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.a47c2817.chunk.js": "/static/js/2.a47c2817.chunk.js",
-    "static/js/2.a47c2817.chunk.js.map": "/static/js/2.a47c2817.chunk.js.map",
+    "static/js/2.ea16a39c.chunk.js": "/static/js/2.ea16a39c.chunk.js",
+    "static/js/2.ea16a39c.chunk.js.map": "/static/js/2.ea16a39c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a5be06751fe8971f3250e949f8d456ba.js": "/precache-manifest.a5be06751fe8971f3250e949f8d456ba.js",
+    "precache-manifest.19fbbbec7ee606277e2f92e9eedd7467.js": "/precache-manifest.19fbbbec7ee606277e2f92e9eedd7467.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.a47c2817.chunk.js.LICENSE.txt": "/static/js/2.a47c2817.chunk.js.LICENSE.txt",
+    "static/js/2.ea16a39c.chunk.js.LICENSE.txt": "/static/js/2.ea16a39c.chunk.js.LICENSE.txt",
+    "static/media/Izzatur Royhan.pdf": "/static/media/Izzatur Royhan.43651ced.pdf",
+    "static/media/corona.png": "/static/media/corona.be267eed.png",
+    "static/media/fendap-1.jpg": "/static/media/fendap-1.c978b466.jpg",
+    "static/media/fendap-2.jpg": "/static/media/fendap-2.05901fc5.jpg",
+    "static/media/fendap-web.png": "/static/media/fendap-web.9327419f.png",
     "static/media/roy.png": "/static/media/roy.a2521791.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.a47c2817.chunk.js",
-    "static/js/main.f95f5d0b.chunk.js"
+    "static/js/2.ea16a39c.chunk.js",
+    "static/js/main.0d56c032.chunk.js"
   ]
 }
