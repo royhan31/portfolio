@@ -3,16 +3,16 @@ import React from "react";
 export default function Loading() {
   return(
     <div id="preloader">
-  	 <div class="outer">
+  	 <div className="outer">
 
-  		<div class="infinityChrome">
+  		<div className="infinityChrome">
   			<div></div>
   			<div></div>
   			<div></div>
   		</div>
 
 
-  		<div class="infinity">
+  		<div className="infinity">
   			<div>
   				<span></span>
   			</div>
@@ -24,7 +24,7 @@ export default function Loading() {
   			</div>
   		</div>
 
-  		<svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="goo-outer">
+  		<svg xmlns="http://www.w3.org/2000/svg" version="1.1" className="goo-outer">
   			<defs>
   				<filter id="goo">
   					<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />

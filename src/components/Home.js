@@ -5,21 +5,17 @@ export default function Home(){
     <section id="home" className="home d-flex align-items-center">
       <div className="container">
       <div className="intro">
-
       <img src={require("../images/roy.png")} alt="Bolby" className="mb-4" />
-
-
       <h1 className="mb-2 mt-0">Izzatur Royhan</h1>
        <span>I'm a <span className="text-rotating">Web Developer, Back-End Developer, Front-End Developer</span></span>
 
-
-      <ul className="social-icons light list-inline mb-0 mt-4">
-        <li className="list-inline-item"><a href="https://www.instagram.com/royhan_ir/" rel="noopener noreferrer" target="_blank"><i className="fab fa-instagram"></i></a></li>
-        <li className="list-inline-item"><a href="https://twitter.com/royhan_ir/" rel="noopener noreferrer" target="_blank"><i className="fab fa-twitter"></i></a></li>
-        <li className="list-inline-item"><a href="https://www.facebook.com/royhan.ir/" rel="noopener noreferrer" target="_blank"><i className="fab fa-facebook"></i></a></li>
-        <li className="list-inline-item"><a href="https://www.linkedin.com/in/izzatur-royhan-935a1719b/" rel="noopener noreferrer" target="_blank"><i className="fab fa-linkedin"></i></a></li>
-        <li className="list-inline-item"><a href="https://github.com/royhan31" rel="noopener noreferrer" target="_blank"><i className="fab fa-github"></i></a></li>
-      </ul>
+        <ul className="social-icons light list-inline mb-0 mt-4">
+          <li className="list-inline-item"><a href="https://www.instagram.com/royhan_ir/" rel="noopener noreferrer" target="_blank"><i className="fab fa-instagram"></i></a></li>
+          <li className="list-inline-item"><a href="https://twitter.com/royhan_ir/" rel="noopener noreferrer" target="_blank"><i className="fab fa-twitter"></i></a></li>
+          <li className="list-inline-item"><a href="https://www.facebook.com/royhan.ir/" rel="noopener noreferrer" target="_blank"><i className="fab fa-facebook"></i></a></li>
+          <li className="list-inline-item"><a href="https://www.linkedin.com/in/izzatur-royhan-935a1719b/" rel="noopener noreferrer" target="_blank"><i className="fab fa-linkedin"></i></a></li>
+          <li className="list-inline-item"><a href="https://github.com/royhan31" rel="noopener noreferrer" target="_blank"><i className="fab fa-github"></i></a></li>
+        </ul>
 
 
       <div className="mt-5">

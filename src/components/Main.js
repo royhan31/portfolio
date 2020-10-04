@@ -2,6 +2,8 @@ import React from "react";
 import Home from './Home';
 import About from './About';
 import Experience from './Experience';
+import Work from './Work';
+import Contact from './Contact';
 
 export default function Main(){
   return(
@@ -10,9 +12,11 @@ export default function Main(){
      <Home />
      <About />
      <Experience />
-     <footer class="footer">
-       <div class="container">
-           <span class="copyright">© 2020 Izzatur Royhan</span>
+     <Work />
+     <Contact />
+     <footer className="footer">
+       <div className="container">
+           <span className="copyright">© 2020 Izzatur Royhan</span>
        </div>
    </footer>
    </main>

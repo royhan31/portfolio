@@ -26,7 +26,7 @@ export default function About(){
                 Laravel, React js dan Express js.
                 </p>
 								<div className="mt-3">
-									<a href="/" className="btn btn-default">Download CV</a>
+									<a href={require("../files/Izzatur Royhan.pdf")} rel="noopener noreferrer" target="_blank" className="btn btn-default">Download CV</a>
 								</div>
 								<div className="spacer d-md-none d-lg-none" data-height="30"></div>
 							</div>
@@ -71,7 +71,7 @@ export default function About(){
 			</div>
 
 			<div className="spacer" data-height="75"></div>
-      <div className="row">
+      <div className="row justify-content-center">
 				<div className="col-md-2 col-sm-2 col-4 mb-4 text-center">
 					<div className="fact-item">
 					     <i className="fab fa-js-square fa-3x"></i>
