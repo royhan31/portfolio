@@ -39,24 +39,26 @@ export default function Experience(){
 						<div className="timeline-container wow fadeInUp">
 							<div className="content">
 								<span className="time">2018</span>
-								<h3 className="title">Web Developer</h3>
-								<p>Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.</p>
+								<h3 className="title">DPMPTSP (Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu) Kab. Brebes</h3>
+								<p>Sebagai pegawai lepas di DPMPTSP (Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu) Kab. Brebes sebagai Web Developer (Laravel) membuat sebuah aplikasi survei
+                untuk kepuasan pelanggan.</p>
 							</div>
 						</div>
 
-						<div className="timeline-container wow fadeInUp" data-wow-delay="0.2s">
+						<div className="timeline-container wow fadeInUp">
 							<div className="content">
-								<span className="time">2019</span>
-								<h3 className="title">Back-End Developer</h3>
-								<p>Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.</p>
+								<span className="time">2018</span>
+								<h3 className="title">GeekGarden Yogyakarta</h3>
+								<p>Magang di Software House GeekGarden Yogyakarta sebagai Web Developer (Laravel).</p>
 							</div>
 						</div>
 
-						<div className="timeline-container wow fadeInUp" data-wow-delay="0.4s">
+						<div className="timeline-container wow fadeInUp">
 							<div className="content">
-								<span className="time">2019</span>
-								<h3 className="title">Front-End Developer</h3>
-								<p>Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.</p>
+								<span className="time">2020</span>
+								<h3 className="title">DISKOMINFO Kab. Brebes</h3>
+								<p>Sebagai pegawai lepas di DISKOMINFO Kab. Brebes sebagai Web Developer (Laravel) untuk membantu dalam pendataan pendatang
+                yang masuk ke kabupaten Brebes.</p>
 							</div>
 						</div>
 

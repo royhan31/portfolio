@@ -22,8 +22,7 @@ export default function About(){
 					<div className="rounded bg-dark shadow-dark padding-30">
 						<div className="row">
 							<div className="col-md-6">
-								<p className="text-justify">Saya Izzatur Royhan, seorang fresh graduate dan seorang backend developer yang berfokus pada
-                Laravel, React js dan Express js.
+								<p className="text-justify">Saya Izzatur Royhan, saya seorang Backend Developer, saya punya pengalaman dalam Backend Development dengan REST API menggunakan Node Js, Laravel dan MySQL.
                 </p>
 								<div className="mt-3">
 									<a href={require("../files/Izzatur Royhan.pdf")} rel="noopener noreferrer" target="_blank" className="btn btn-default">Download CV</a>
@@ -33,7 +32,19 @@ export default function About(){
 							<div className="col-md-6">
 								<div className="skill-item">
 									<div className="skill-info clearfix">
-										<h4 className="float-left mb-3 mt-0">Back-End Developer</h4>
+										<h4 className="float-left mb-3 mt-0">PHP (Laravel)</h4>
+										<span className="float-right">90%</span>
+									</div>
+									<div className="progress">
+										<div className="progress-bar data-background" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90" data-color="#FF4C60">
+										</div>
+									</div>
+									<div className="spacer" data-height="20"></div>
+								</div>
+
+                <div className="skill-item">
+									<div className="skill-info clearfix">
+										<h4 className="float-left mb-3 mt-0">DBMS (MySQL)</h4>
 										<span className="float-right">80%</span>
 									</div>
 									<div className="progress">
@@ -42,25 +53,14 @@ export default function About(){
 									</div>
 									<div className="spacer" data-height="20"></div>
 								</div>
-								<div className="skill-item">
-									<div className="skill-info clearfix">
-										<h4 className="float-left mb-3 mt-0">Web Developer</h4>
-										<span className="float-right">70%</span>
-									</div>
-									<div className="progress">
-										<div className="progress-bar data-background" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70" data-color="#FF4C60">
-										</div>
-									</div>
-									<div className="spacer" data-height="20"></div>
-								</div>
 
 								<div className="skill-item">
 									<div className="skill-info clearfix">
-										<h4 className="float-left mb-3 mt-0">Front-End Developer</h4>
-										<span className="float-right">60%</span>
+										<h4 className="float-left mb-3 mt-0">Javascript (NodeJs)</h4>
+										<span className="float-right">70%</span>
 									</div>
 									<div className="progress">
-										<div className="progress-bar data-background" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="60" data-color="#6C6CE5">
+										<div className="progress-bar data-background" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70" data-color="#6C6CE5">
 										</div>
 									</div>
 								</div>
