@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.0d56c032.chunk.js",
-    "main.js.map": "/static/js/main.0d56c032.chunk.js.map",
+    "main.js": "/static/js/main.5330a166.chunk.js",
+    "main.js.map": "/static/js/main.5330a166.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/js/2.ea16a39c.chunk.js": "/static/js/2.ea16a39c.chunk.js",
     "static/js/2.ea16a39c.chunk.js.map": "/static/js/2.ea16a39c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.19fbbbec7ee606277e2f92e9eedd7467.js": "/precache-manifest.19fbbbec7ee606277e2f92e9eedd7467.js",
+    "precache-manifest.bf366b7778d8c39a546233e3e56f4be2.js": "/precache-manifest.bf366b7778d8c39a546233e3e56f4be2.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.ea16a39c.chunk.js.LICENSE.txt": "/static/js/2.ea16a39c.chunk.js.LICENSE.txt",
-    "static/media/Izzatur Royhan.pdf": "/static/media/Izzatur Royhan.43651ced.pdf",
+    "static/media/Izzatur Royhan.pdf": "/static/media/Izzatur Royhan.100600fe.pdf",
     "static/media/corona.png": "/static/media/corona.be267eed.png",
     "static/media/fendap-1.jpg": "/static/media/fendap-1.c978b466.jpg",
     "static/media/fendap-2.jpg": "/static/media/fendap-2.05901fc5.jpg",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/js/2.ea16a39c.chunk.js",
-    "static/js/main.0d56c032.chunk.js"
+    "static/js/main.5330a166.chunk.js"
   ]
 }
