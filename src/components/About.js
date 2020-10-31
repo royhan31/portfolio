@@ -25,7 +25,7 @@ export default function About(){
 								<p className="text-justify">Saya Izzatur Royhan, saya seorang Backend Developer, saya punya pengalaman dalam Backend Development dengan REST API menggunakan Node Js, Laravel dan MySQL.
                 </p>
 								<div className="mt-3">
-									<a href={require("../files/Izzatur Royhan.pdf")} rel="noopener noreferrer" target="_blank" className="btn btn-default">Download CV</a>
+									<a href={require("../files/Resume Izzatur-Royhan.pdf")} rel="noopener noreferrer" target="_blank" className="btn btn-default">Download CV</a>
 								</div>
 								<div className="spacer d-md-none d-lg-none" data-height="30"></div>
 							</div>
