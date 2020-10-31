@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ecac6abf7ee455b7fdffc5e89d031df",
+    "revision": "275766b8236e61ce7eb5465c30ee327e",
     "url": "/index.html"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ea16a39c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77319fcc43bfaac7ba2a",
-    "url": "/static/js/main.5330a166.chunk.js"
+    "revision": "71c60381dae87e7ebbb3",
+    "url": "/static/js/main.8ee6e08a.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
     "url": "/static/js/runtime-main.19ccc7f6.js"
   },
   {
-    "revision": "100600fe4bbab60cbebf6dc1c31f7c3f",
-    "url": "/static/media/Izzatur Royhan.100600fe.pdf"
+    "revision": "9799f0cbf9b7fc4f4a0596db107769b2",
+    "url": "/static/media/Resume Izzatur-Royhan.9799f0cb.pdf"
   },
   {
     "revision": "be267eed4fab1a3693c8923c1cfd9a0e",
